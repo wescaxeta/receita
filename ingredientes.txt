@@ -2,3 +2,4 @@
 1 panela de pressao
 1 fogão
 1 gás
+1 fogo alto
